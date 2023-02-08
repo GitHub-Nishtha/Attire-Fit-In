@@ -7,26 +7,31 @@ The trend of online shopping is increasing. Trying on clothes virtually in these
 Virtual try-on, ‘Attire Fit-in’, which would help people visualize how a particular piece of clothing would look on them. Our model would generate a synthetic image of the client trying the clothing item.
 
 # Getting Started
-Pre-requisites
+## Pre-requisites
 Python: (3.6 - 3.8.5)
 
 ## Procedure
 1. git clone https://github.com/rishabh15b/B.Tech-CS----2022.git
 2. In this open 14_Grp_AttireFitIn.
 3. Code folder contains the code.
+
 Step 1:
 
 conda create --name attire-fit-in python=3.7.13
+
 Step 2:
 
 conda activate attire-fit-in
+
 Step 3:
 
 pip install -r requirements.txt
+
 Step 4:
 
 Upload your dataset in given path dataset\test folder.
  **Cloth & Image size should be 768*1024** 
+
 Step 5:
 
 To get cloth mask run clothmask.py given in code folder
