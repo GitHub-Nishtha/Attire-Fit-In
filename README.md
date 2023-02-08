@@ -2,15 +2,15 @@
 Final year project (2022)
 
 
-Introduction
+# Introduction
 The trend of online shopping is increasing. Trying on clothes virtually in these times will allow the customers to get an idea of how the cloth will look on them, which will substantially improve the customer experience. This is heading towards the idea of virtual dress fitting or virtual fitting. Image-based virtual fitting is basically an image generation task that changes a person's garment to another garment specified in another product image.
 Virtual try-on, ‘Attire Fit-in’, which would help people visualize how a particular piece of clothing would look on them. Our model would generate a synthetic image of the client trying the clothing item.
 
-Getting Started
+# Getting Started
 Pre-requisites
 Python: (3.6 - 3.8.5)
 
-Procedure
+## Procedure
 1. git clone https://github.com/rishabh15b/B.Tech-CS----2022.git
 2. In this open 14_Grp_AttireFitIn.
 3. Code folder contains the code.
